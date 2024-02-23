@@ -1,0 +1,14 @@
+C:\Users\lmorales\Desktop\data_prb\data_SAT\data_SAT\bin\Debug\net7.0\data_SAT.exe
+C:\Users\lmorales\Desktop\data_prb\data_SAT\data_SAT\bin\Debug\net7.0\data_SAT.deps.json
+C:\Users\lmorales\Desktop\data_prb\data_SAT\data_SAT\bin\Debug\net7.0\data_SAT.runtimeconfig.json
+C:\Users\lmorales\Desktop\data_prb\data_SAT\data_SAT\bin\Debug\net7.0\data_SAT.dll
+C:\Users\lmorales\Desktop\data_prb\data_SAT\data_SAT\bin\Debug\net7.0\data_SAT.pdb
+C:\Users\lmorales\Desktop\data_prb\data_SAT\data_SAT\obj\Debug\net7.0\data_SAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmorales\Desktop\data_prb\data_SAT\data_SAT\obj\Debug\net7.0\data_SAT.AssemblyInfoInputs.cache
+C:\Users\lmorales\Desktop\data_prb\data_SAT\data_SAT\obj\Debug\net7.0\data_SAT.AssemblyInfo.cs
+C:\Users\lmorales\Desktop\data_prb\data_SAT\data_SAT\obj\Debug\net7.0\data_SAT.csproj.CoreCompileInputs.cache
+C:\Users\lmorales\Desktop\data_prb\data_SAT\data_SAT\obj\Debug\net7.0\data_SAT.dll
+C:\Users\lmorales\Desktop\data_prb\data_SAT\data_SAT\obj\Debug\net7.0\refint\data_SAT.dll
+C:\Users\lmorales\Desktop\data_prb\data_SAT\data_SAT\obj\Debug\net7.0\data_SAT.pdb
+C:\Users\lmorales\Desktop\data_prb\data_SAT\data_SAT\obj\Debug\net7.0\data_SAT.genruntimeconfig.cache
+C:\Users\lmorales\Desktop\data_prb\data_SAT\data_SAT\obj\Debug\net7.0\ref\data_SAT.dll
