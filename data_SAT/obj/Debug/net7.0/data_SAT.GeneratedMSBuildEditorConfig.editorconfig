@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = data_SAT
-build_property.ProjectDir = C:\Users\lmorales\Desktop\data_prb\data_SAT\data_SAT\
+build_property.ProjectDir = C:\Users\Gerardo\Desktop\GIT\dataSAT\data_SAT\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

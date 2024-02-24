@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lmorales\\Desktop\\data_prb\\data_SAT\\data_SAT\\data_SAT.csproj": {}
+    "C:\\Users\\Gerardo\\Desktop\\GIT\\dataSAT\\data_SAT\\data_SAT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lmorales\\Desktop\\data_prb\\data_SAT\\data_SAT\\data_SAT.csproj": {
+    "C:\\Users\\Gerardo\\Desktop\\GIT\\dataSAT\\data_SAT\\data_SAT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lmorales\\Desktop\\data_prb\\data_SAT\\data_SAT\\data_SAT.csproj",
+        "projectUniqueName": "C:\\Users\\Gerardo\\Desktop\\GIT\\dataSAT\\data_SAT\\data_SAT.csproj",
         "projectName": "data_SAT",
-        "projectPath": "C:\\Users\\lmorales\\Desktop\\data_prb\\data_SAT\\data_SAT\\data_SAT.csproj",
-        "packagesPath": "C:\\Users\\lmorales\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lmorales\\Desktop\\data_prb\\data_SAT\\data_SAT\\obj\\",
+        "projectPath": "C:\\Users\\Gerardo\\Desktop\\GIT\\dataSAT\\data_SAT\\data_SAT.csproj",
+        "packagesPath": "C:\\Users\\Gerardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gerardo\\Desktop\\GIT\\dataSAT\\data_SAT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lmorales\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gerardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
